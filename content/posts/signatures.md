@@ -109,6 +109,7 @@ draft: false
 - John Garcia ([@chewblacka](https://github.com/chewblacka))
 - Anton Mosich ([@antonmosich](https://github.com/antonmosich))
 - P.O. ([@wolfangaukang](https://github.com/wolfangaukang))
+- Aidan Gauland ([@aidalgol](https://github.com/aidalgol))
 - Lillian Violet ([@Lillian-Violet](https://github.com/Lillian-Violet))
 - Florian Warzecha ([@liketechnik](https://github.com/liketechnik))
 - Jorge Javier Araya Navarro ([@shackra](https://github.com/shackra))
